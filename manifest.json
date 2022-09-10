@@ -1,0 +1,37 @@
+{
+  "name": "Word Hunt",
+  "short_name": "WordHunt",
+  "theme_color": "#c98895",
+  "background_color": "#c98895",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons":[
+    {
+      "src":"maskable_icon196",
+      "sizes":"6",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src":"dictionaryicon192",
+      "sizes":"192x192",
+      "type": "image/png"
+    },
+    {
+      "src":"dictionaryicon256",
+      "sizes":"256x256",
+      "type": "image/png"
+    },
+    {
+      "src":"dictionaryicon384",
+      "sizes":"384x384",
+      "type": "image/png"
+    },
+    {
+      "src":"dictionaryicon512",
+      "sizes":"512x512",
+      "type": "image/png"
+    }
+  ]
+}
